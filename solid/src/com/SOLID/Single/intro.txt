@@ -1,0 +1,1 @@
+A class should've a single responsibility.

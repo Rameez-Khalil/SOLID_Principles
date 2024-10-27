@@ -1,0 +1,6 @@
+High level modules should not be dependent on low level modules, rather there should be an abstraction.
+In all the previous codes, where we have utilized Render classes be it 2D or 3D we accepted 'Shape' or 'ThreeDimensionalSHape'
+which allowed us to reduce or code logic, and our functional more flexible to accept all the shapes which are implementing
+certain types.
+
+

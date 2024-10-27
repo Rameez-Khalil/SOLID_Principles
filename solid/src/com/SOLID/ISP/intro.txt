@@ -1,0 +1,5 @@
+We should never ever force the client to use the same interface for multiple use cases.
+For example, if the client wants to create a 2D shape only, and a 3D shape thereafter, then the definitions for 2D and 3D
+shapes should live in separate interfaces.
+
+For 2D shapes we should not have a calculateVolume function signature in the 2D shape interface.

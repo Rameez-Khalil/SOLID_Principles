@@ -1,0 +1,6 @@
+Subclass and Super classes should be a substitute to each other.
+This can either be achieved using Interface or Abstract class.
+Pick the most common functionality and put it in either the abstract class or interface.
+
+Every class that extends that abstract class or implements that interface will then become a substitute to
+every other class that implements that same interface.
