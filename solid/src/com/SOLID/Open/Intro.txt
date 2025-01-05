@@ -1,1 +1,2 @@
-Existing classes should be closed for modifications due to addition of newer classes.
+This implies that such entities – classes, functions, and so on – should be created in a way that their core functionalities can be extended to other entities without altering the initial entity's source code.
+
